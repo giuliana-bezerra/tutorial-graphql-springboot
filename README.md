@@ -1,6 +1,6 @@
 # Tutorial GraphQL com Spring Boot
 
-Esse projeto foi elaborado [nesse vídeo]() que apresenta um tutorial sobre como criar um serviço web com Graphql e Spring Boot.
+Esse projeto foi elaborado [nesse vídeo](https://youtu.be/HuS00aB52wc) que apresenta um tutorial sobre como criar um serviço web com Graphql e Spring Boot.
 
 ## O que será construído
 
@@ -18,4 +18,4 @@ Um serviço web para um sistema de fórum, que cria e lista posts com seus respe
 
 ## Referências
 
-[Vídeo do Youtube]()
+- [Vídeo do Youtube](https://youtu.be/HuS00aB52wc)
